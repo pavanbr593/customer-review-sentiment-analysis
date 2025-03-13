@@ -18,7 +18,7 @@ The dataset consists of customer reviews labeled as:
 
 - `0` → **Negative**
 - `1` → **Positive**
-- `2` → **Neutral** (Added manually to balance the dataset)
+- `2` → **Neutral**
 
 ### **Files Used:**
 
